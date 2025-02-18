@@ -1,0 +1,15 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\bin\Debug\net9.0\exG.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\bin\Debug\net9.0\exG.deps.json
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\bin\Debug\net9.0\exG.runtimeconfig.json
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\bin\Debug\net9.0\exG.dll
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\bin\Debug\net9.0\exG.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\exG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\exG.AssemblyInfoInputs.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\exG.AssemblyInfo.cs
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\exG.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\exG.sourcelink.json
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\exG.dll
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\refint\exG.dll
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\exG.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\exG.genruntimeconfig.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Lista 11\exG\exG\obj\Debug\net9.0\ref\exG.dll
